@@ -139,7 +139,7 @@ class FacialCustomization:
     RETURN_TYPES = ("STRING", "STRING", "STRING")
     RETURN_NAMES = ("prompt", "negative", "meta")
     OUTPUT_NODE = False
-    DESCRIPTION = "选脸/拼配 + 画风/光/镜头/姿态，生成完整角色提示词"
+    DESCRIPTION = "中式人物资产提示词生成：选脸/拼配 + 画风/光/镜头/姿态"
 
     @classmethod
     def INPUT_TYPES(cls):

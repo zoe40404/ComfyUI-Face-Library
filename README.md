@@ -1,8 +1,8 @@
 # ComfyUI-Face-Library
 
-> 把男女共两百余种脸型量化集成的 ComfyUI 角色提示词节点。
+> 用于生成**中式人物资产**的角色提示词节点：把男女共两百余种脸型量化集成，一键拼装完整提示词。
 
-`Facial Customization` 是一个 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 自定义节点：通过下拉框选择「性别 / 年龄组 / 脸型 / 画风 / 光 / 镜头 / 姿态」等维度，自动拼装出完整、精细的角色提示词，直接连接到文生图节点出图。
+`Facial Customization` 是一个用于生成**中式人物资产**的 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) 自定义节点：通过下拉框选择「性别 / 年龄组 / 脸型 / 画风 / 光 / 镜头 / 姿态」等维度，自动拼装出完整、精细的角色提示词，直接连接到文生图节点出图。
 
 ## ✨ 特性
 
